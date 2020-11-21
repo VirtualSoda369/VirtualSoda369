@@ -10,6 +10,6 @@
 
 
 
-# Here is the list of tutorials
+# Here is the list of posts
 
 - [Test tile](https://google.com)
