@@ -2,7 +2,7 @@
 -------------
 ## A webpage where i write projects, tips and tutorials about Javascript and unity
 -------------
-#### mail : sys_tec@outlook.com
+#### my e-mail : sys_tec@outlook.com
 #### instagram --> https://www.instagram.com/virtualsoda.exe/
 #### itch.io ---> https://mysticmagegames.itch.io
 
