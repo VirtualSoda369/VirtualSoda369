@@ -1,6 +1,6 @@
 # VirtualSoda
 
-## A blog where I write code, related to Javascript and Unity 
+## A page where I write code, related to Javascript and Unity 
 
 - my e-mail : sys_tec@outlook.com
 - [Instagram](https://www.instagram.com/virtualsoda.exe/)
