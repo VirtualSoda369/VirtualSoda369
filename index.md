@@ -13,3 +13,4 @@
 # Here is the list of posts
 
 - [Validate user input](https://virtualsoda369.github.io/validate_user_input/)
+- [Cached variables and console.time()](https://virtualsoda369.github.io/cached_variables_example/)
