@@ -2,8 +2,12 @@
 
 ## A page where I write code, related to Javascript and Unity 
 
+- [my portfolio page](https://mg-software-dev.github.io/mg-software-dev/)
+
 - my e-mail : sys_tec@outlook.com
+
 - [Instagram](https://www.instagram.com/virtualsoda.exe/)
+
 - [Itch.io](https://mysticmagegames.itch.io)
 
 
