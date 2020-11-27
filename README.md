@@ -1,10 +1,10 @@
 ## VirtualSoda
 
-- 🥤 I’m currently learning Fullstack web dev using Javascript and game dev using Unity
+### - 🥤 Welcome!
 
-- 🥤 my github page (with proyects, tips and tutorials) -> https://virtualsoda369.github.io/VirtualSoda369/
+- 🥤 [my github portfolio (with proyects)](https://mg-software-dev.github.io/mg-software-dev/)
 
-- 🥤 my github portfolio (with proyects) -> https://virtualsoda369.github.io/VirtualSoda369/
+- 🥤 [my github page (with proyects, tips and tutorials)](https://virtualsoda369.github.io/VirtualSoda369/)
 
 - 🥤 How to reach me -> sys_tec@outlook.com
 
