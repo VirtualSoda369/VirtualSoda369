@@ -24,5 +24,4 @@
 
 - Maze Game in Javascript
     - [Part 1](https://virtualsoda369.github.io/maze_game_part_1/)
-
-
+    - [Part 2](https://virtualsoda369.github.io/maze_game_part_2/)
