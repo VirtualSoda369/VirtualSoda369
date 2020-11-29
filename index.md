@@ -25,6 +25,6 @@
 - Maze Game in Javascript
     - [You can play the game here](https://virtualsoda369.github.io/maze_game_demo/)
     - [Here is the repo with all the files](https://github.com/VirtualSoda369/maze_game_demo) (the assets are from openGameArt.com so no copyright issues)
-    - How its done:
+    - How is it done:
         - [Part 1](https://virtualsoda369.github.io/maze_game_part_1/)
         - [Part 2](https://virtualsoda369.github.io/maze_game_part_2/)
