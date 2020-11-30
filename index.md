@@ -28,3 +28,4 @@
     - How is it done:
         - [Part 1](https://virtualsoda369.github.io/maze_game_part_1/)
         - [Part 2](https://virtualsoda369.github.io/maze_game_part_2/)
+        - [Part 3](https://virtualsoda369.github.io/maze_game_part_3/)
