@@ -36,3 +36,4 @@
      - [you can try it here!](https://virtualsoda369.github.io/most_repeated_colors_demo/)
      - How is it done : 
          - [Part 1](https://virtualsoda369.github.io/most_repeated_colors_p1/)
+         - [Part 2 (Final)](https://virtualsoda369.github.io/most_repeated_colors_p2/)
