@@ -23,7 +23,7 @@
 - [Quick sort and Binary search](https://virtualsoda369.github.io/quick_sort_and_binary_search/)
 
 - Maze Game in Javascript
-    - [You can play the game here](https://virtualsoda369.github.io/maze_game_demo/)
+    - [You can play the game here!](https://virtualsoda369.github.io/maze_game_demo/)
     - [Here is the repo with all the files](https://github.com/VirtualSoda369/maze_game_demo) (the assets are from openGameArt.com so no copyright issues)
     - How is it done:
         - [Part 1](https://virtualsoda369.github.io/maze_game_part_1/)
@@ -33,6 +33,6 @@
         
         
  - Most repeated colors in a image
-     - [you can try it here]()
+     - [you can try it here!](https://virtualsoda369.github.io/most_repeated_colors_demo/)
      - How is it done : 
          - [Part 1](https://virtualsoda369.github.io/most_repeated_colors_p1/)
