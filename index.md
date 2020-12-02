@@ -1,6 +1,6 @@
 # VirtualSoda
 
-## A page where I write code, related to Javascript and Unity 
+## A page where I write code, related to Javascript
 
 - [my portfolio page](https://mg-software-dev.github.io/mg-software-dev/)
 
