@@ -30,3 +30,9 @@
         - [Part 2](https://virtualsoda369.github.io/maze_game_part_2/)
         - [Part 3](https://virtualsoda369.github.io/maze_game_part_3/)
         - [Part 4 (Final)](https://virtualsoda369.github.io/maze_game_part_4/)
+        
+        
+ - Most repeated colors in a image
+     - [you can try it here]()
+     - How is it done : 
+         - [Part 1](https://virtualsoda369.github.io/most_repeated_colors_p1/)
