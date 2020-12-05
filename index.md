@@ -17,8 +17,8 @@
 # Here is the list of posts
 
 
-- [Color to sound]()
-    - You can try it [HERE](https://virtualsoda369.github.io/color_to_sound/.)
+- [Color to sound](https://virtualsoda369.github.io/color_to_sound_post/)
+    - You can try it [HERE](https://virtualsoda369.github.io/color_to_sound/)
 
 
 - [Quick sort and Binary search](https://virtualsoda369.github.io/quick_sort_and_binary_search/)
