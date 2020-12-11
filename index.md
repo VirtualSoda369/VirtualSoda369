@@ -16,6 +16,8 @@
 
 # Here is the list of posts
 
+-[Neural network in Javascript](https://virtualsoda369.github.io/neural_network_js/)
+    - You can try it [HERE](https://neural-net-js.herokuapp.com/)
 
 - [Color to sound](https://virtualsoda369.github.io/color_to_sound_post/)
     - You can try it [HERE](https://virtualsoda369.github.io/color_to_sound/)
