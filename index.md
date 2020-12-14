@@ -22,6 +22,9 @@
 
 - [Color to sound](https://virtualsoda369.github.io/color_to_sound_post/)
     - You can try it [HERE](https://virtualsoda369.github.io/color_to_sound/)
+    
+    
+- [Depth First Search](https://virtualsoda369.github.io/depth_first_search_js/)
 
 
 - [Quick sort and Binary search](https://virtualsoda369.github.io/quick_sort_and_binary_search/)
